@@ -104,7 +104,6 @@ Conversely, the word cloud for negative reviews highlights words like “Fabric�
 However, our current model has limitations, as some reviews contain both positive and negative comments (e.g., “I like the size, but the material is disappointing”). This can lead to misleading results in our word cloud. To address this, we propose that the e-commerce platform should refine its review system to include more specific feedback options. For instance, at the beginning of the review section, a question such as “Why did you not like our product?” could be accompanied by choices like “Quality”, “Size”, “Design”, etc. This would facilitate more accurate analysis and aid in the company’s ongoing development and improvement.
 
 ## References
-1.	Winter, Dayna. What Is Ecommerce? A Comprehensive Guide (2024).
-Shopify.com. May 26,2023.
-2. 	Women’s E-Commerce Clothing Reviews. Kaggle.com
+1.	Winter, Dayna. [What Is Ecommerce? A Comprehensive Guide (2024)](https://www.shopify.com/blog/what-is-ecommerce#1)
+2. 	Kaggle.com [Women’s E-Commerce Clothing Reviews](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews)
 
